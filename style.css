@@ -1,0 +1,105 @@
+body{
+    font-family: 'Carter One', cursive;
+    font-family: 'Patua One', cursive;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    
+}
+.half-width{
+    width: 30%;
+    float: left;
+}
+#width{
+    margin: 30px;
+    padding: 20px;
+}
+
+.first-width{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: white;
+    margin-left: 300px;
+    height: 400px;
+    width: 700px;
+    
+}
+
+.link{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color:white;
+    font-weight: 700;
+}
+.link:hover{
+    background-color: aqua;
+}
+.middle-width{
+    width:40%;
+    float: left;
+    margin-top:10px;
+}
+.second-width{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: white;
+    margin-left: 300px;
+    height: 400px;
+    width: 700px;
+    margin-bottom: none;
+}
+#style{
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.img-container {
+    float: left;
+    width: 150px;
+    padding-left: 10px;
+    
+}
+
+.last-width{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    margin-left: 300px;
+    height: 750px;
+    width: 700px;
+    padding: 0;
+}
+.clearfix{
+    margin: 100px;
+    height: 100px;
+    
+}
+.footer{
+    text-align: center;
+    border: 1px solid black;
+    width: 400px;
+    border-radius: 25px;
+    
+    background-color: orange;
+    margin-left: 150px;
+    color: white;
+}
+.footer:hover{
+    background-color: aquamarine;
+    color:red;
+}
+
+
+
+
+
+
